@@ -1,0 +1,1 @@
+import{_ as e,o as s,f as a,d as o}from"./index.9d0825f9.js";const t={},c={class:"about"},_=o("h1",null,"This is an Shape page",-1),n=[_];function r(i,d){return s(),a("div",c,n)}var f=e(t,[["render",r]]);export{f as default};
